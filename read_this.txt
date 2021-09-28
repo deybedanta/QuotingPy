@@ -1,0 +1,30 @@
+========================================
+READ THIS BEFORE RUNNING THE PROGRAM!
+========================================
+
+YOU MUST HAVE PYTHON 3 INSTALLED TO RUN THIS!
+
+In order to run QuotingPy, you must first install all the dependancies. Thankfully, they are all listed
+in `requirements.txt` file. 
+
+You can install them one by one, but the safest and fastest way to do that is to:
+
+
+= LINUX OR MAC =
+
+Right click in this directory and "Open in terminal".
+Then type in / paste the following command:
+
+pip install -r requirements.txt
+
+That's it done! Now you can execute main.py.
+
+
+= WINDOWS = 
+
+Shift + Right Click in this directory and click "Open PowerShell window here".
+Then type in / paste the following command:
+
+pip install -r requirements.txt
+
+That's it done! Now you can execute main.py.
