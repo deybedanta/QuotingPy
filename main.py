@@ -28,7 +28,7 @@ splash = """
 def begin():
     print(Fore.BLUE + splash + Fore.WHITE)
     print("")
-    print("Welcome to" + Fore.YELLOW + " QuotingPy" + Fore.WHITE + "! This program generates random quotes that might just brighten your day!")
+    print("Welcome to" + Fore.YELLOW + " QuotingPy" + Fore.WHITE + "! This program generates random quotes that might just brighten your day! [Made by Bedanta Dey]")
     print("")
     print("Please use '" + Fore.GREEN + "g" + Fore.WHITE + "' to generate a quote, or '" + Fore.RED + "q" + Fore.WHITE + "' to quit the program.")
 
